@@ -1,5 +1,5 @@
 ## Eugene Vasiliev
-27 y.o.
+27 y.o., Belarus, Brestskaya oblast, Baranovichi
 
 ### Contacts
 * Tel: +375257846224
