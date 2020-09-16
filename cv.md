@@ -5,6 +5,7 @@
 * Tel: +375257846224
 * Mail: vasya_2393@drummer.ru
 * Telegram: MrDrummy
+* Instagram: [mrdrummy93](https://www.instagram.com/mrdrummy93) 
 
 ### About me
 My goal is become strong *Front-end Developer* and find intresting work. I consider myself plodding, hard-working and executive man. I also learn quickly enough.
