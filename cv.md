@@ -14,6 +14,7 @@ My goal is become strong *Front-end Developer* and find intresting work. I consi
 * HTML
 * CSS
 * JS
+* React
 
 ### Experience
 
