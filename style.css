@@ -1,0 +1,42 @@
+#link {
+    color: aliceblue;
+}
+
+#avatar {
+    height: 300px;
+    width: 250px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.wrapper {
+    width: 45vw;
+    position: absolute;
+    left: 25%;
+    font-family: "Century Gothic";
+}
+
+.header {
+    background-color: #2451AF;
+    height: 300px;
+    padding: 10px;
+    color: aliceblue;
+    font-size: 24px;
+}
+
+.heading {
+    text-decoration: overline;
+}
+
+.content {
+    margin: 10px;
+}
+
+.firstBlock {
+    float: left;
+}
+
+.secondBlock {
+    float: right;
+}
