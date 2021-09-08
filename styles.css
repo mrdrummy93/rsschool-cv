@@ -1,0 +1,57 @@
+body {
+  background-color: black;
+  font-family: "Cabin", sans-serif;
+}
+
+h1, h2 {
+  color: gold;
+}
+
+h1 {
+  font-size: 5em;
+}
+
+header {
+  display: flex;
+  align-items: center;
+}
+
+header li {
+  list-style-type: none;
+}
+
+#wrapper {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white ;
+}
+
+#avatar {
+  width: 200px;
+  border-radius: 50%;
+}
+
+#experience {
+
+}
+
+#qualities {
+
+}
+
+#skills {
+
+}
+
+#examples {
+
+}
+
+#contacts {
+
+}
+
+.icons {
+  width: 50px;
+}
