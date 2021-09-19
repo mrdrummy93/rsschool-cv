@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
   <title>CV</title>
+  <base target="_blank">
 </head>
 
 <body>
@@ -41,12 +42,12 @@
         <h2 id="experience">Experience</h2>
         <h2 id="education">Education</h2>
         <h2 id="qualities">Personal qualities</h2>
-        <h2 id="skills">Key skills and knowledges</h2>
+        <h2 id="skills">Key skills</h2>
         <h2 id="examples">Work examples</h2>
       </section>
 
       <aside class="right-column">
-        <p>None. But i have a passion for programming.</p>
+        <p id="text">None. But i have a passion for programming.</p>
         <ul>
           <li>2010 – 2012: GGPTS №35 Gomel. Assistant machinist, rolling stock repairman.</li>
           <li>2017 – until now: GSTU named Suhogo, Gomel. Electronics engineer.</li>
@@ -64,10 +65,14 @@
           <li>Beginner level of knowledge JS, React, Redux, Git.</li>
           <li>English – Intermediate (B1)</li>
         </ul>
-        <ul>
-          <li>https://github.com/mrdrummy93/carousel-component</li>
-          <li>https://github.com/mrdrummy93/image-finder</li>
-        </ul>
+        <section>
+            <h3>Carousel Component</h3>
+            <a href="https://github.com/mrdrummy93/carousel-component"><img class="projects" src="pictures/projects/slider.png" alt="carousel-component-project"></a>
+            <p>This is a simple carousel component which support mobile and web, swipes and pagination. Used technologies: React, Webpack, Styled Components</p>
+            <h3>Image Finder</h3>
+            <a href="https://github.com/mrdrummy93/image-finder"><img class="projects" src="pictures/projects/finder.png" alt="image-finder-project"></a>
+            <p>App that search for images using Flickr. It also stores some images in the Bookmarks section. Used technologies: React, Local Storage, Route, CSS Modules, react-bootstrap, Fetch.</p>
+        </section>
       </aside>
     </div>
 

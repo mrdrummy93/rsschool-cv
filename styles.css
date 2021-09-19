@@ -82,13 +82,14 @@ footer {
 .left-column {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
   border-right: 1px solid white;
   margin-left: 20px;
+  margin-right: 20px;
 }
 
-.right-column p {
-  margin-left: 20px;
+#text {
+  margin-left: 40px;
 }
 
 .right-column ul li {
@@ -102,19 +103,23 @@ footer {
 }
 
 #experience {
-margin-top: 10px;
+margin-top: 13px;
 }
 
 #education {
-  margin-top: -70px;
+  margin-top: -10px;
 }
 
 #qualities {
-  margin-bottom: 60px;
+  margin-top: 105px;
 }
 
 #skills {
-  margin-bottom: -35px;
+  margin-top: 95px;
+}
+
+#examples {
+  margin-top: 65px;
 }
 
 #address {
@@ -125,3 +130,15 @@ margin-right: 25px;
   text-decoration: none;
   color: white
 } 
+
+.projects {
+  width: 602px;
+}
+
+aside section {
+  margin-left: 40px;
+}
+
+aside {
+  line-height: 2em;
+}
